@@ -1,10 +1,10 @@
-## Neural Network from Scratch – PyTorch
+# Neural Network from Scratch – PyTorch
 
-# Overview
+## Overview
 This project demonstrates the development of a fully functional neural network from scratch using PyTorch, applied to the classic Iris Dataset.
 It covers the entire machine learning pipeline — from data preprocessing to model training, evaluation, and visualization of performance.
 
-# Dataset
+## Dataset
 Source: Iris Dataset
 
 Description:
@@ -15,7 +15,7 @@ Classes: 3 species of Iris flowers
 
 The dataset is widely used for classification tasks and is ideal for demonstrating machine learning fundamentals.
 
-# Implementation Details
+## Implementation Details
 Framework: PyTorch
 
 Steps Covered:
@@ -34,7 +34,7 @@ Model training & evaluation on test set
 
 Accuracy calculation & performance reporting
 
-# Results
+## Results
 Final Accuracy: High accuracy on test data, demonstrating strong classification performance.
 
 The model effectively learns patterns in the dataset, achieving robust results without relying on pre-built high-level APIs.
